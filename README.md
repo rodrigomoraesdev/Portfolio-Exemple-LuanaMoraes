@@ -1,6 +1,6 @@
 # Portfólio Exemplo: Luana Moraes
 
-## 👨🏻‍💻 [Abrir Projeto](https://portfolio-exemple-luana-moraes.vercel.app)
+## 👨🏻‍💻 [Abrir Projeto](https://portfolio-exemple-luanamoraes.vercel.app)
 
 <div style="display: flex; gap: 2%">
 <img alt="HTML" width="48%" src="./assets/Home.png" />
