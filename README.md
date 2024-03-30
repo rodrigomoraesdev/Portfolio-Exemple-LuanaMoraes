@@ -13,7 +13,7 @@ Esse é um projeto criado como exemplo de um portfólio moderno e totalmente res
 
 ## 💡 Sobre
 
-O projeto se refere a um portfólio criado para a desenvolvedora Front-End Luana Moraes, especialista em React, HTML e CSS, no qual foi desenvolvido duas páginas:
+O projeto se refere a um portfólio criado para a desenvolvedora Front-End Luana Moraes, especialista em React, HTML e CSS, no qual foi desenvolvido as duas páginas a seguir:
 
 - 🏠 Home: Página inicial, onde contém um breve resumo sobre a desenvolvedora Luana Moraes, com os links para as redes sociais: GitHub, Linkedin e Twitch, para contato ou conhecerem seus projetos.
 
