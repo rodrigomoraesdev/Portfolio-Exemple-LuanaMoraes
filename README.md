@@ -21,7 +21,7 @@ O projeto se refere a um portfólio criado para a desenvolvedora Front-End Luana
 
 ## 📚 Conhecimentos
 
-Para estudo e aplicação do projeto, foi utilizado os contéudos de HTML e CSS para projetos web na plataforma da Alura:
+Para estudo e aplicação do projeto, foi utilizado os conteúdos de HTML e CSS para projetos web na plataforma da Alura:
 
 - [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags?preRequirementFrom=html-css-cabecalho-footer-variaveis-css)
 - [HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox?preRequirementFrom=html-css-cabecalho-footer-variaveis-css)
@@ -38,10 +38,10 @@ Para estudo e aplicação do projeto, foi utilizado os contéudos de HTML e CSS 
 
 ---
 
-- `HTML`: O HTML tem um papel fundamental pois é através dele que realizamos o desenvolvimento da estrutura e definimos e organizamos o contéudo de forma que seja facilmente interpretado pelos navegadores web.
+- `HTML`: O HTML tem um papel fundamental pois é através dele que realizamos o desenvolvimento da estrutura e definimos e organizamos o conteúdo de forma que seja facilmente interpretado pelos navegadores web.
 
 - `CSS`: O CSS tem papel fundamental para controlar a aparência e o layout do nosso portfólio, proporcionando uma experiência visual atraente, responsiva e consistente para os usuários.
 
-- `Devicon`: Utilizei a coleção de ícones de alta qualidade do Devicon, justamente para representar os icones das tecnologias aqui utilizados, esse ícones são projetados para representar várias tecncologias e ferramentas de desenvolvimento de software.
+- `Devicon`: Utilizei a coleção de ícones de alta qualidade do Devicon, justamente para representar os ícones das tecnologias aqui utilizados, esse ícones são projetados para representar várias tecnologias e ferramentas de desenvolvimento de software.
 ---
 **Desenvolvido por [Rodrigo Moraes](https://github.com/rodrigomoraesdev)**
